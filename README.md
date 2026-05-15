@@ -69,7 +69,7 @@ To use the evaluation API and run the baseline models:
 
 ## 📄 Project Report
 
-For detailed methodology, experiments, and results, please refer to the [**full project report (PDF)**](./docs/report.pdf).
+For detailed methodology, experiments, and results, please refer to the [**full project report (PDF)**](./docs/Report.pdf).
 
 
 
