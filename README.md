@@ -65,4 +65,11 @@ To use the evaluation API and run the baseline models:
 2. Ensure `train.csv` is placed in the `/data` directory.
 3. Refer to the `demo_submission.py` for API integration logic.
 
+---
+
+## 📄 Project Report
+
+For detailed methodology, experiments, and results, please refer to the [**full project report (PDF)**](./docs/report.pdf).
+
+
 
